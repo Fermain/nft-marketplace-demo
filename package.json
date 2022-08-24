@@ -1,0 +1,13 @@
+{
+  "name": "js1-nft",
+  "version": "0.0.1",
+  "description": "A demonstration NFT marketplace using JS1 concepts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Dipple <oliver.dipple@noroff.no>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
