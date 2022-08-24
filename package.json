@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "A demonstration NFT marketplace using JS1 concepts",
   "scripts": {
-    "start": "live-server"
+    "start": "live-server",
+    "find": "node src/backend.js"
   },
   "author": "Oliver Dipple <oliver.dipple@noroff.no>",
   "license": "ISC",
