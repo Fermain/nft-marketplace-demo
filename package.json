@@ -9,7 +9,8 @@
   "author": "Oliver Dipple <oliver.dipple@noroff.no>",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.2.0"
+    "bootstrap": "^5.2.0",
+    "javascript-time-ago": "^2.5.7"
   },
   "devDependencies": {
     "live-server": "^1.2.2"

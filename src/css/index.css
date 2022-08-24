@@ -1,0 +1,4 @@
+.price:after  {
+  content: "kr";
+  margin-left: 0.15rem;
+}
