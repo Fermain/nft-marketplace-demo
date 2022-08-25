@@ -24,4 +24,36 @@ Demonstrate the concepts in JS1 through a practical (and hopefully fun) session.
 
 ## Plan
 
-- Delete all the files and start again
+1. Create HTML file
+2. Build out products js
+3. storage
+4. actions
+5. user
+
+### Requirements
+- Show product thumbnails
+- Show a product detail page
+- Buy action
+- Favourites action
+- Login
+- Logout
+- Filter
+- Sort
+
+### Functions
+
+- getProducts()
+- getProduct(id) - api
+
+- filterProducts(?)
+- sortProduct(?)
+
+- buyProduct(id, price)
+- addToFavourites(id)*
+
+- login(username, password)*
+- logout()*
+
+- saveToLocal(key, value)
+- getFromLocal(key)
+- removeFromLocal(key)
