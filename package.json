@@ -1,0 +1,12 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "find": "node src/backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
