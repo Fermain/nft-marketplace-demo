@@ -1,3 +1,11 @@
 import * as store from "./products/index.js"
 
-store.getNft("0b808e82-753b-4244-a4b5-12daf0d9aaa8").then(console.log)
+import * as storage from "./storage/index.js"
+
+import * as templates from "./templates/index.js"
+
+store.getNfts().then(function(nfts) {
+  const output = nfts.map(templates.nftTemplate)
+  const row = document.querySelector('.row')
+  row.append(...output)
+})
